@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>g24.jpg</filename>
+	<path>D:\Final\note\data_images\g24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garam</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>166</xmin>
+			<ymin>2</ymin>
+			<xmax>480</xmax>
+			<ymax>459</ymax>
+		</bndbox>
+	</object>
+</annotation>

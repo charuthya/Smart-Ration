@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>t36.jpg</filename>
+	<path>D:\Final\note\data_images\t36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>282</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tumeric</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>6</ymin>
+			<xmax>282</xmax>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>61lAsNttVnL._AC_UL320_.jpg</filename>
+	<path>D:\Final\note\data_images\61lAsNttVnL._AC_UL320_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>202</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>5</ymin>
+			<xmax>184</xmax>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

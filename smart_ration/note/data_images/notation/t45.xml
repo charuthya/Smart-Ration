@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>t45.jpg</filename>
+	<path>D:\Final\note\data_images\t45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tea</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>48</ymin>
+			<xmax>432</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

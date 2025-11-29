@@ -1,0 +1,4 @@
+ train: data _images/train
+ val: data_images/test
+ nc: 20
+ names: ['coriander', 'tea', 'garam', 'turmeric']

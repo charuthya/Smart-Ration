@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>bm29.jpg</filename>
+	<path>D:\Final\note\data_images\bm29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>briyani</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>3</ymin>
+			<xmax>416</xmax>
+			<ymax>612</ymax>
+		</bndbox>
+	</object>
+</annotation>

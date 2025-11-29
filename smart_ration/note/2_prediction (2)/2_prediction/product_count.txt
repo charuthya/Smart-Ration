@@ -1,0 +1,10 @@
+garam: 0 detected
+coffee: 0 detected
+chilli: 0 detected
+tumeric: 0 detected
+tea: 0 detected
+briyani: 11 detected
+Coriander: 0 detected
+Garam Masala: 1 detected
+Chilli Powder: 1 detected
+Turmeric Powder: 1 detected

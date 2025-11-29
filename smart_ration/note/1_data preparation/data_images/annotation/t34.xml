@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>t34.jpg</filename>
+	<path>E:\project\note\1_data preparation\data_images\t34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>turmeric</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>3</ymin>
+			<xmax>397</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>

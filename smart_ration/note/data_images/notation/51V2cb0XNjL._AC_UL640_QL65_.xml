@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>51V2cb0XNjL._AC_UL640_QL65_.jpg</filename>
+	<path>D:\Final\note\data_images\51V2cb0XNjL._AC_UL640_QL65_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>262</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coffee</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>6</ymin>
+			<xmax>260</xmax>
+			<ymax>628</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data_images</folder>
+	<filename>71fz8iBGSML._AC_UL320_.jpg</filename>
+	<path>D:\Final\note\data_images\71fz8iBGSML._AC_UL320_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>254</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chilli</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>254</xmax>
+			<ymax>320</ymax>
+		</bndbox>
+	</object>
+</annotation>
